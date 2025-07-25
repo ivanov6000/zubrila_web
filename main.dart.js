@@ -30772,7 +30772,7 @@ r=A.a8("")
 r.toString
 o.setAttribute("flt-viewport",r)
 o.name="viewport"
-o.content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+o.content="width=device-width, initial-scale=1.0"
 s.document.head.append(o)
 $.akm()},
 goM(){return this.a}}
